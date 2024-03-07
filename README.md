@@ -30,10 +30,9 @@ CustomDropDownButton is a custom dropdown button widget in Flutter designed to w
 * In this example, the dropdown button will display a list of fruits, with 'Apple' selected initially. When the user selects a different fruit, the onChangedValue callback will update the selectedFruit variable.
   
  Here's an example where we have a <b>Month</b> class with <b>id</b> and <b>value</b>, and we'll pass a list of Month objects to the <b>CustomDropDownButton</b> to create a dropdown of months:
-
-<img width="469" alt="Screenshot 2024-03-07 at 9 10 29 AM" src="https://github.com/KaushalGautam080/CustomDropdown_Button/assets/101984287/582f511b-a078-4394-b0b7-bfd198689c38">
-<img width="345" alt="Screenshot 2024-03-07 at 9 10 44 AM" src="https://github.com/KaushalGautam080/CustomDropdown_Button/assets/101984287/b3fad61a-379f-4e16-8030-700e51e61619">
-<img width="435" alt="Screenshot 2024-03-07 at 9 11 20 AM" src="https://github.com/KaushalGautam080/CustomDropdown_Button/assets/101984287/2fe9cd5d-4230-41cc-96ac-4079a58f740b">
+<center><img width="469" alt="Screenshot 2024-03-07 at 9 10 29 AM" src="https://github.com/KaushalGautam080/CustomDropdown_Button/assets/101984287/582f511b-a078-4394-b0b7-bfd198689c38"></center>
+<center><img width="345" alt="Screenshot 2024-03-07 at 9 10 44 AM" src="https://github.com/KaushalGautam080/CustomDropdown_Button/assets/101984287/b3fad61a-379f-4e16-8030-700e51e61619"></center>
+<center><img width="435" alt="Screenshot 2024-03-07 at 9 11 20 AM" src="https://github.com/KaushalGautam080/CustomDropdown_Button/assets/101984287/2fe9cd5d-4230-41cc-96ac-4079a58f740b"></center>
  In this Example:
  * We have a <b>Month</b>b class with id and value attributes representing the month's unique identifier and name.
 
