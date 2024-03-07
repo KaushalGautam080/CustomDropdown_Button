@@ -31,7 +31,8 @@ CustomDropDownButton is a custom dropdown button widget in Flutter designed to w
   
  Here's an example where we have a <b>Month</b> class with <b>id</b> and <b>value</b>, and we'll pass a list of Month objects to the <b>CustomDropDownButton</b> to create a dropdown of months:
 <p >
-  <img width="469" alt="Screenshot 1" src="https://github.com/KaushalGautam080/CustomDropdown_Button/assets/101984287/582f511b-a078-4394-b0b7-bfd198689c38">
+  <img width="494" alt="Screenshot 2024-03-07 at 1 56 49 PM" src="https://github.com/KaushalGautam080/CustomDropdown_Button/assets/101984287/502934dd-f7b0-4f55-a5c8-406cb6f56404">
+
 </p>
 
 <p >
