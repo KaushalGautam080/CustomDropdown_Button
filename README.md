@@ -30,10 +30,7 @@ CustomDropDownButton is a custom dropdown button widget in Flutter designed to w
 * In this example, the dropdown button will display a list of fruits, with 'Apple' selected initially. When the user selects a different fruit, the onChangedValue callback will update the selectedFruit variable.
   
  Here's an example where we have a <b>Month</b> class with <b>id</b> and <b>value</b>, and we'll pass a list of Month objects to the <b>CustomDropDownButton</b> to create a dropdown of months:
-<p >
-  <img width="494" alt="Screenshot 2024-03-07 at 1 56 49 PM" src="https://github.com/KaushalGautam080/CustomDropdown_Button/assets/101984287/502934dd-f7b0-4f55-a5c8-406cb6f56404">
 
-</p>
 
 <p >
   <img width="345" alt="Screenshot 2" src="https://github.com/KaushalGautam080/CustomDropdown_Button/assets/101984287/b3fad61a-379f-4e16-8030-700e51e61619">
